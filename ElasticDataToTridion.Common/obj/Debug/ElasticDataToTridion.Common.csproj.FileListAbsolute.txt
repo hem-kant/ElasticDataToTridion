@@ -1,0 +1,5 @@
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Common\bin\Debug\ElasticDataToTridion.Common.dll
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Common\bin\Debug\ElasticDataToTridion.Common.pdb
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Common\obj\Debug\ElasticDataToTridion.Common.dll
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Common\obj\Debug\ElasticDataToTridion.Common.pdb
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Common\obj\Debug\ElasticDataToTridion.Common.csprojResolveAssemblyReference.cache

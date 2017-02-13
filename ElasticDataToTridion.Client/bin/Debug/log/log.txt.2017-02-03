@@ -1,0 +1,32 @@
+2017-02-03 20:33:13,320 [9] INFO  Component 
+2017-02-03 20:34:35,017 [9] INFO  Component 
+2017-02-03 22:27:06,950 [9] INFO  ConnectionSettings
+2017-02-03 22:27:09,266 [9] INFO  Elastic ClientNest.ElasticClient
+2017-02-03 22:27:09,698 [9] INFO  Component 
+2017-02-03 22:36:49,960 [8] INFO  ConnectionSettings
+2017-02-03 22:38:32,227 [9] INFO  ConnectionSettings
+2017-02-03 22:38:33,015 [9] INFO  Elastic ClientNest.ElasticClient
+2017-02-03 22:38:56,899 [10] INFO  ConnectionSettings
+2017-02-03 22:38:57,697 [10] INFO  Elastic ClientNest.ElasticClient
+2017-02-03 22:38:58,364 [10] INFO  Component 
+2017-02-03 22:46:57,730 [8] INFO  ConnectionSettings
+2017-02-03 22:46:58,363 [8] INFO  Elastic ClientNest.ElasticClient
+2017-02-03 22:46:58,504 [8] INFO  Component 
+2017-02-03 22:48:48,682 [9] INFO  ConnectionSettings
+2017-02-03 22:48:48,707 [9] INFO  Elastic ClientNest.ElasticClient
+2017-02-03 22:48:48,707 [9] INFO  Component 
+2017-02-03 22:49:44,111 [9] INFO  ConnectionSettings
+2017-02-03 22:49:45,283 [9] INFO  Elastic ClientNest.ElasticClient
+2017-02-03 22:49:45,788 [9] INFO  Component 
+2017-02-03 22:54:43,267 [10] INFO  ConnectionSettings
+2017-02-03 22:54:44,041 [10] INFO  Elastic ClientNest.ElasticClient
+2017-02-03 22:54:44,556 [10] INFO  Component 
+2017-02-03 23:39:29,130 [9] INFO  ConnectionSettings
+2017-02-03 23:39:29,163 [9] INFO  Elastic ClientNest.ElasticClient
+2017-02-03 23:39:29,163 [9] INFO  Component 
+2017-02-03 23:44:08,231 [10] INFO  ConnectionSettings
+2017-02-03 23:44:08,260 [10] INFO  Elastic ClientNest.ElasticClient
+2017-02-03 23:44:08,260 [10] INFO  Component 
+2017-02-03 23:44:51,765 [8] INFO  ConnectionSettings
+2017-02-03 23:44:52,262 [8] INFO  Elastic ClientNest.ElasticClient
+2017-02-03 23:44:52,501 [8] INFO  Component 

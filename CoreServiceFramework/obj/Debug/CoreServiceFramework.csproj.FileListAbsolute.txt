@@ -1,0 +1,7 @@
+D:\Dream\ElasticDataToTridion\CoreServiceFramework\bin\Debug\CoreServiceFramework.dll
+D:\Dream\ElasticDataToTridion\CoreServiceFramework\bin\Debug\CoreServiceFramework.pdb
+D:\Dream\ElasticDataToTridion\CoreServiceFramework\obj\Debug\CoreServiceFramework.dll
+D:\Dream\ElasticDataToTridion\CoreServiceFramework\obj\Debug\CoreServiceFramework.pdb
+D:\Dream\ElasticDataToTridion\CoreServiceFramework\bin\Debug\Tridion.Common.dll
+D:\Dream\ElasticDataToTridion\CoreServiceFramework\bin\Debug\Tridion.ContentManager.CoreService.Client.dll
+D:\Dream\ElasticDataToTridion\CoreServiceFramework\obj\Debug\CoreServiceFramework.csprojResolveAssemblyReference.cache

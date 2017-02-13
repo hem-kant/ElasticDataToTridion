@@ -1,0 +1,12 @@
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.TridionObjects\obj\Debug\ElasticDataToTridion.TridionObjects.csprojResolveAssemblyReference.cache
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.TridionObjects\bin\Debug\ElasticDataToTridion.TridionObjects.dll
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.TridionObjects\bin\Debug\ElasticDataToTridion.TridionObjects.pdb
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.TridionObjects\bin\Debug\CoreServiceFramework.dll
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.TridionObjects\bin\Debug\ElasticDataToTridion.Logger.dll
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.TridionObjects\bin\Debug\Tridion.ContentManager.CoreService.Client.dll
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.TridionObjects\bin\Debug\log4net.dll
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.TridionObjects\bin\Debug\CoreServiceFramework.pdb
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.TridionObjects\bin\Debug\ElasticDataToTridion.Logger.pdb
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.TridionObjects\bin\Debug\log4net.xml
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.TridionObjects\obj\Debug\ElasticDataToTridion.TridionObjects.dll
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.TridionObjects\obj\Debug\ElasticDataToTridion.TridionObjects.pdb

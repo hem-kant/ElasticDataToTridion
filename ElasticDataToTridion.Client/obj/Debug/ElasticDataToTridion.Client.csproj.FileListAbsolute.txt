@@ -1,0 +1,28 @@
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\bin\Debug\ElasticDataToTridion.Client.exe.config
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\bin\Debug\ElasticDataToTridion.Client.exe
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\bin\Debug\ElasticDataToTridion.Client.pdb
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\bin\Debug\Elasticsearch.Net.dll
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\bin\Debug\Nest.dll
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\bin\Debug\Newtonsoft.Json.dll
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\bin\Debug\Elasticsearch.Net.pdb
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\bin\Debug\Elasticsearch.Net.xml
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\bin\Debug\Nest.pdb
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\bin\Debug\Nest.xml
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\bin\Debug\Newtonsoft.Json.xml
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\obj\Debug\ElasticDataToTridion.Client.csprojResolveAssemblyReference.cache
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\obj\Debug\ElasticDataToTridion.Client.exe
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\obj\Debug\ElasticDataToTridion.Client.pdb
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\bin\Debug\ElasticDataToTridion.Common.dll
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\bin\Debug\ElasticDataToTridion.Common.pdb
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\bin\Debug\ElasticDataToTridion.Logger.dll
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\bin\Debug\log4net.dll
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\bin\Debug\ElasticDataToTridion.Logger.pdb
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\bin\Debug\log4net.xml
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\bin\Debug\CoreServiceFramework.dll
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\bin\Debug\Tridion.ContentManager.CoreService.Client.dll
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\bin\Debug\CoreServiceFramework.pdb
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\bin\Debug\ElasticDataToTridion.TridionObjects.dll
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Client\bin\Debug\ElasticDataToTridion.TridionObjects.pdb
+D:\Production Project\MVP-Proj-Git\ElasticDataToTridion\ElasticDataToTridion.Client\bin\Debug\ElasticDataToTridion.Client.exe.config
+D:\Production Project\MVP-Proj-Git\ElasticDataToTridion\ElasticDataToTridion.Client\obj\Debug\ElasticDataToTridion.Client.exe
+D:\Production Project\MVP-Proj-Git\ElasticDataToTridion\ElasticDataToTridion.Client\obj\Debug\ElasticDataToTridion.Client.pdb

@@ -1,0 +1,7 @@
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Logger\bin\Debug\ElasticDataToTridion.Logger.dll
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Logger\bin\Debug\ElasticDataToTridion.Logger.pdb
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Logger\obj\Debug\ElasticDataToTridion.Logger.dll
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Logger\obj\Debug\ElasticDataToTridion.Logger.pdb
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Logger\bin\Debug\log4net.dll
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Logger\bin\Debug\log4net.xml
+D:\Dream\ElasticDataToTridion\ElasticDataToTridion.Logger\obj\Debug\ElasticDataToTridion.Logger.csprojResolveAssemblyReference.cache
